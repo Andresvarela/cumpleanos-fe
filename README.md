@@ -2,11 +2,11 @@
 
 # Install
 
-Execute
+Execute:
 ```
 npm up
 ```
-and for run
+for run:
 ```
 ng serve -o
 ```
