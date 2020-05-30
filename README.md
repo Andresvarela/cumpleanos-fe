@@ -1,4 +1,17 @@
-# CumpleanosFe
+# Cumpleanos-fe
+
+# Install
+
+Execute
+```
+npm up
+```
+and for run
+```
+ng serve -o
+```
+
+url:http://localhost:4200/persona
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
